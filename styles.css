@@ -1,0 +1,49 @@
+* {
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background: whitesmoke;
+}
+
+
+div {
+    background: white;
+    width: 300px;
+    height: 500px;
+    border-radius: 10px;
+    box-shadow: 6px 6px 6px 6px gainsboro;
+    
+}
+
+.container {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 50px;
+}
+img {
+    width: 289px;
+    height: 280px;
+    border-radius: 15px;
+    margin: 5px;
+}
+
+h4 {
+    padding-left: 20px;
+    padding-right: 20px;
+    padding-top: 20px;
+    font-size: 20px;
+    text-align: center;
+}
+
+p {
+    text-align: center;
+    padding-left: 15px;
+    padding-right: 15px;
+    padding-top: 7px;
+    opacity: 60%;
+    font-size: 15px;
+}
